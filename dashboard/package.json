@@ -1,0 +1,8 @@
+{
+	"name": "dashboard",
+	"private": true,
+	"version": "0.0.0",
+	"description": "Dashboard web (React/Angular). Dependencias y scripts de build/desarrollo.",
+	"scripts": {}
+}
+

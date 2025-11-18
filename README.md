@@ -1,3 +1,4 @@
+<!-- Resumen general del proyecto y cómo correr Root, Child y Dashboard. -->
 FireMesh-DX es un sistema distribuido de detección de incendios basado en una red de nodos ESP32 utilizando la librería PainlessMesh. El objetivo principal del proyecto es demostrar cómo se aplican en un entorno real los conceptos de sistemas distribuidos, tales como comunicación distribuida, sincronización de relojes, consistencia de datos, replicación y tolerancia a fallos. El sistema incluye sensores físicos de humo y flama, sincronización de tiempo mediante un protocolo NTP implementado desde cero, tolerancia a fallos por pérdida de conexión, consistencia eventual y un dashboard web en tiempo real conectado a Firebase.
 
 Arquitectura General
